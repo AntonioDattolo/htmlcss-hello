@@ -1,4 +1,16 @@
-body {
-    background-color: blue;
-   
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {    
+    text-align: center;
+    background-color: hsl(244, 100%, 59%);
+    color: red;
+    border: solid 3px black;
+    font-size: 60px;
+    height: 25%;
+    width: 25%; 
+    margin-left: 35%;  
 }
